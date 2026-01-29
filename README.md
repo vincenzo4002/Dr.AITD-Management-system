@@ -551,5 +551,5 @@ copies or substantial portions of the Software.
 
 ---
 
-**Made with 💙 by the Gulshan Kumar**
+**Made with 💙 by the Aditya Kumar Sharma**
 "# Dr.AITD-Management-system" 
